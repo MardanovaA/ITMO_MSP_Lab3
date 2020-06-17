@@ -1,6 +1,2 @@
-build/MSP_Lab3.jar
-build/classes/Area.class
-build/classes/Lab3.class
-build/classes/Point.class
-build/classes/TestT.class
+build.xml
 		
